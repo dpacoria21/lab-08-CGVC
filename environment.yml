@@ -1,0 +1,12 @@
+name: lab08-cgvc
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - notebook
+  - ipykernel
+  - nbconvert
+  - numpy
+  - matplotlib
+  - opencv
+  - pillow
